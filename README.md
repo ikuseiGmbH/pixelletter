@@ -49,7 +49,7 @@ You can pass an optional attribute: `testmodus: true`. This makes sure no actual
 
 Create an order hash:
 ```
-order: { order:
+order:
           {
             options: {
               type: 'text',

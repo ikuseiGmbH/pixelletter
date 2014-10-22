@@ -9,7 +9,7 @@ require 'yaml'
 module Pixelletter
 
   ENDPOINT = {
-    :production => 'https://www.pixelletter.de/xml/index.php',
+    :production => 'http://www.pixelletter.de/xml/index.php',
     :sandbox => 'http://www.fakeweb.test'
   }
 
